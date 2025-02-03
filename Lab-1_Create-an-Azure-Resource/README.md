@@ -23,6 +23,7 @@ https://www.youtube.com/watch?v=Q6sXslRg5Nk
 **Assignment Return:** 
 
 After completing the above mentioned tasks, you will the upload the screenshot. Here is an example of the screenshot. 
+<img src="./images/Create an Azure resource-example.png">
 
 
 Find the deadline for this task below.
