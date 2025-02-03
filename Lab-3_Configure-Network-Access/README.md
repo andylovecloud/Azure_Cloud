@@ -29,7 +29,7 @@ Note: You should use Microsoft Sandbox for this task.
 
 <img src="./images/2.png">
 
-8. Type the domain name in the browser and you should see the page that you created earlier.
+6. Type the **domain name** in the browser and you should see the page that you created earlier.
 
  **Assignment Return --> in "[Return-files](./Return-files/)" folder** 
 
