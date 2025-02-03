@@ -3,9 +3,10 @@
 ## Purpose / Learning Objective 
 
 The objective of this task is to create a storage bob and change the access level of your bob.
+
 **Note**: You will use Microsoft Sandbox for this task. 
 
-**<ins>Please remember to activate your sandbox before using the sandbox subscription.</ins>**
+**__Please remember to activate your sandbox before using the sandbox subscription.**
 
 https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/5-exercise-create-storage-blob
 
