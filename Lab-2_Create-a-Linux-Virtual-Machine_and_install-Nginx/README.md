@@ -23,11 +23,11 @@ The objective of this task is to create an Azure virtual machine (VM) and instal
       
 4. Type the following commands and take the screenshot:
    
-    **1. clear
-    2. curl localhost
-    3. uname -a**
-
+    1. **clear**
+    2. **curl localhost**
+    3. **uname -a**
   
+
 **Assignment Return --> in "[Return-files](./Return-files/)" folder** 
 
 After completing the above mentioned tasks, you will then upload the screenshot. Here is an example of the screenshot. 
