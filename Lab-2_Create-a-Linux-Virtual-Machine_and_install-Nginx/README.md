@@ -17,14 +17,15 @@ The objective of this task is to create an Azure virtual machine (VM) and instal
     - Get into the /var/www/html directory: cd /var/www/html
     - Create a simple html page (index.html) using nano text editor:  sudo nano index.html
     - The content of the index.html page is
+   
       **Hello World ! Welcome to my Web Server.
-      FirstName LastName
-**
+      FirstName LastName**
+      
 4. Type the following commands and take the screenshot: 
     **1. clear
     2. curl localhost
-    3. uname -a
-**
+    3. uname -a**
+  
 **Assignment Return --> in "[Return-files](./Return-files/)" folder** 
 
 After completing the above mentioned tasks, you will then upload the screenshot. Here is an example of the screenshot. 
