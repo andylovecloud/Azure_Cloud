@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=Q6sXslRg5Nk
     - uname -a 
 
 
-**Assignment Return:** 
+**Assignment Return --> in "Return-files" folder** 
 
 After completing the above mentioned tasks, you will the upload the screenshot. Here is an example of the screenshot. 
 <img src="./images/Create an Azure resource-example.png">
