@@ -8,7 +8,7 @@ Note: You should use Microsoft Sandbox for this task.
 1. You will create a VM using the Azure Portal (https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/3-create-a-vm) **(Note: From the link you should always activate the sandbox to be able to create Virtual Machines that is once you click Activate Sandbox, you can then login to the Azure Portal)**
 2. Name the virtual machine as your firstnameLastnameWebserver. **Once you have created the virtual machine, continue the following tasks**: 
    1. Using your Visual Studio Code, you will make an SSH connection to the virtual machine
-      - Note: You have downloaded ssh key at the time of creating the virtual machine in your download folder, move that private key to /username/.ssh/yourPK for example in my case:  C:\Users\deepak1\.ssh\deepakkc_key.pem
+      - **Note**: You have downloaded ssh key at the time of creating the virtual machine in your download folder, move that private key to /username/.ssh/yourPK for example in my case:  C:\Users\deepak1\.ssh\deepakkc_key.pem
       - Then to login to the VM, use a terminal in VSC and type the following command (remember to replace your VM public IP address below)
         - **ssh -i "C:\Users\andy\.ssh\andy_key.pem" azureuser@vmIpaddress**
           
