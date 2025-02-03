@@ -6,7 +6,7 @@ The objective of this task is to create a storage bob and change the access leve
 
 **Note**: You will use Microsoft Sandbox for this task. 
 
-**__Please remember to activate your sandbox before using the sandbox subscription.**
+**Please remember to activate your sandbox before using the sandbox subscription.**
 
 https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/5-exercise-create-storage-blob
 
