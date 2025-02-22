@@ -31,13 +31,15 @@ Note: You should use Microsoft Sandbox for this task.
 
 6. Type the **domain name** in the browser and you should see the page that you created earlier.
 
- **Assignment Return --> in "[Return-files](./Return-files/)" folder** 
+ **Result return --> in "[Return-files](./Return-files/)" folder** 
 
-After completing the tasks mentioned above, you will then upload the screenshot. Here is an example of the screenshot. 
+After completing the above mentioned tasks, your result should be similar with below example:
+
 
 <img src="./images/ans.png">
 
-Find the deadline for this task below.
+
+
 Read More: 
 
 https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/
