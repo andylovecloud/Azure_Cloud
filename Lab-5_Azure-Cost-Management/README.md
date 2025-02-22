@@ -15,15 +15,15 @@ https://msle.learnondemand.net/Lab/36558?classId=521955
 4. Create a cost management budget and alert
 
 
-## **Assignment Return --> in "[Return-files](./Return-files/)" folder** 
+## **Result Return --> in "[Return-files](./Return-files/)" folder** 
 
-Please complete the lab exercise and submit two screenshots to verify your completion.
+After complete the lab exercise, there are two screenshots to verify your completion.
 
 - The first screenshot should display the cost management page in the Azure Portal.
 - The second screenshot should display the Azure budget and an associated alert that you have created during the lab.
 
 
-Find the deadline for this task below.
+
 Read More: 
 https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/
 
