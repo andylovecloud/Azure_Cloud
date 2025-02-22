@@ -18,15 +18,15 @@ https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-servic
 
 
 
-**Assignment Return --> in "[Return-files](./Return-files/)" folder** 
+**Result return --> in "[Return-files](./Return-files/)" folder** 
 
-After completing the above mentioned tasks, you will then upload the screenshot. Here is an example of the screenshot. 
+After completing the above mentioned tasks, your result should be similar with below example:
+
 
 <img src="./images/example.png">
 
 
 
-Find the deadline for this task below.
 Read More: 
 https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/
 
