@@ -20,11 +20,10 @@ https://www.youtube.com/watch?v=Q6sXslRg5Nk
     - uname -a 
 
 
-**Assignment Return --> in "[Return-files](./Return-files/)" folder** 
+**Result --> in "[Return-files](./Return-files/)" folder** 
 
-After completing the above mentioned tasks, you will the upload the screenshot. Here is an example of the screenshot. 
+After completing the above mentioned tasks, your result should be similar with below example: 
 <img src="./images/Create an Azure resource-example.png">
 
 
-Find the deadline for this task below.
 Additional Learning: https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/
