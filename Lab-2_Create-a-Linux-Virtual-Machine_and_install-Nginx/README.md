@@ -28,9 +28,10 @@ The objective of this task is to create an Azure virtual machine (VM) and instal
     3. **uname -a**
   
 
-**Assignment Return --> in "[Return-files](./Return-files/)" folder** 
+**Result return --> in "[Return-files](./Return-files/)" folder** 
 
-After completing the above mentioned tasks, you will then upload the screenshot. Here is an example of the screenshot. 
+After completing the above mentioned tasks, your result should be similar with below example:
+
 
 <img src="./images/cliVM-example.png">
 
